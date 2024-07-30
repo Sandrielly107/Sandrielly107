@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Oi meu nome é Sandrielly
+Eu estudo no alura
 <!--
 **Sandrielly107/Sandrielly107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
